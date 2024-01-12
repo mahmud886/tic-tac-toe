@@ -3,7 +3,7 @@
    Game
     -> Board
         -> Square
-    -> Hostory
+    -> History
 */
 import { useState } from 'react';
 
